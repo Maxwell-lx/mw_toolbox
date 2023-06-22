@@ -1,0 +1,3 @@
+/home/lx/code/tt/third-party/MeshFix/build/CMakeFiles/MeshFix.dir
+/home/lx/code/tt/third-party/MeshFix/build/CMakeFiles/edit_cache.dir
+/home/lx/code/tt/third-party/MeshFix/build/CMakeFiles/rebuild_cache.dir
